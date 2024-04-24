@@ -18,6 +18,9 @@ function App() {
           Learn React
         </a>
       </header>
+      <p>
+        UNLIMITED FREE WEBSITES (loaded html on a browser)
+      </p>
     </div>
   );
 }
