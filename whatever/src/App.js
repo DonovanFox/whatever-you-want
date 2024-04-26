@@ -29,14 +29,6 @@ function App() {
         >
           HTML to JSX
         </a>
-        <a
-          className="Song-link"
-          download="C:\Users\s10031602\Downloads\jetpack.flac"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          jetpack
-        </a>
     </div>
   );
 }
