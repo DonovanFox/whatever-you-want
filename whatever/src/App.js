@@ -23,7 +23,7 @@ function App() {
       </p>
       <a
           className="Song-link"
-          href="C:\Users\s10031602\AP CS A\whatever-you-want\whatever\public\jetpack.flac"
+          href="jetpack.flac"
           target="_blank"
           rel="noopener noreferrer"
         download>
