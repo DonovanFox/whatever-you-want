@@ -24,6 +24,18 @@
   color: rgb(29, 160, 200);
 }
 
+.Left {
+  float: left;
+  display: none;
+  justify-content: space-evenly;
+}
+
+.Right {
+  float: right;
+  display: none;
+  justify-content: space-evenly;
+}
+
 .App-link {
   color: #61dafb;
 }

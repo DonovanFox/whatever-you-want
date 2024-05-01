@@ -29,10 +29,10 @@ function App() {
         download>
         <p className="With-margins">MUSIC</p>
         </a>
-        Undertale
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=ubLatubBziyx3uJO&amp;list=PLpJl5XaLHtLX-pDk4kctGxtF4nq6BIyjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        Deltarune
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=U3TUHc9eered8Sda&amp;list=PLEUKcNuP7bDX9RoW3HqYR6EFvWZh12upZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <p className="Left">Undertale</p>
+        <iframe width="560" height="315" className="Left" src="https://www.youtube.com/embed/videoseries?si=ubLatubBziyx3uJO&amp;list=PLpJl5XaLHtLX-pDk4kctGxtF4nq6BIyjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <p className="Right">Deltarune</p>
+        <iframe width="560" height="315" className="Right" src="https://www.youtube.com/embed/videoseries?si=U3TUHc9eered8Sda&amp;list=PLEUKcNuP7bDX9RoW3HqYR6EFvWZh12upZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         Planets
         <iframe width="560" height="315" src="https://www.youtube.com/embed/Isic2Z2e2xs?si=VHpeiw9q8jSF7YyR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         Exoplanets
