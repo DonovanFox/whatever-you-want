@@ -31,8 +31,14 @@ function App() {
         </a>
         Undertale
         <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=ubLatubBziyx3uJO&amp;list=PLpJl5XaLHtLX-pDk4kctGxtF4nq6BIyjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        The Planets
+        Deltarune
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=U3TUHc9eered8Sda&amp;list=PLEUKcNuP7bDX9RoW3HqYR6EFvWZh12upZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        Planets
         <iframe width="560" height="315" src="https://www.youtube.com/embed/Isic2Z2e2xs?si=VHpeiw9q8jSF7YyR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        Exoplanets
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=79TWqkezu1GBnICR&amp;list=PLh4Eme5gACZHaNOYGUuj_wFO0IR5x54Ad" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        Stars
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/urxk4mveLCw?si=MYsCuCDKOJfuLVpx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         French "people"
         <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=PsnU6w_TWAbyBsZO&amp;list=PLi4VqsCqAXj_BSQPFhA7hqbR-pfnCgdSv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         David Bowie
@@ -47,6 +53,10 @@ function App() {
         <iframe width="560" height="315" src="https://www.youtube.com/embed/HTm2kEAfo8o?si=j0tQXkwbL75C6CJ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         Bible Studies
         <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=p515kNAzQ2qZaXjR&amp;list=PLhPp-QAUKF_iiixYtOGmynw-BMEju-EWo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        Unholy Spawn of Mankind
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=IOymfPjDhtvsTKJx&amp;list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        Accelerated Learning
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/3MU_6BPKmBg?si=zyxSkxVKf7RdpKIM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       </p>
     </div>
   );
