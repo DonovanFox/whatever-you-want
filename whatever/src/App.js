@@ -19,16 +19,8 @@ function App() {
         </a>
       </header>*/}
       <p className="App-header">
-        UNLIMITED FREE WEBSITES (loaded html on a browser)
+        UNLIMITED FREE WEBSITES
         <iframe width="784" height="441" src="https://www.youtube.com/embed/vuvckBQ1bME?si=aTr1IWQT5FXmJB-h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <a
-          className="Song-link"
-          href="jetpack.flac"
-          target="_blank"
-          rel="noopener noreferrer"
-        download>
-        <p className="With-margins">MUSIC</p>
-        </a>
         <p className="Left">Undertale</p>
         <iframe width="560" height="315" className="Left" src="https://www.youtube.com/embed/videoseries?si=ubLatubBziyx3uJO&amp;list=PLpJl5XaLHtLX-pDk4kctGxtF4nq6BIyjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         <p className="Right">Deltarune</p>
@@ -57,6 +49,26 @@ function App() {
         <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=IOymfPjDhtvsTKJx&amp;list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         Accelerated Learning
         <iframe width="560" height="315" src="https://www.youtube.com/embed/3MU_6BPKmBg?si=zyxSkxVKf7RdpKIM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <br></br>
+        <a
+          className="Song-link"
+          href="jetpack.flac"
+          target="_blank"
+          rel="noopener noreferrer"
+        download>
+        <p className="With-margins">MUSIC</p>
+        </a>
+        <br></br>
+        And now, for the main event
+        <br></br>
+        _____________________________________________________________________________________________________________________________________________________
+      </p>
+      <p className="Doc">
+        <br></br>
+        My final for Intro to Statistics
+        <br></br>
+        _________________________________________________________________________________________________________________________________
+        <iframe width="850" height="1100" src="https://docs.google.com/document/d/e/2PACX-1vQB9_5st6XThKBCPZPgj63Yu3eZ-RIo4o6qpODIRLky3K7RNw0-jgSKMa839TgL9MeuZ5FpmBTcfv_J/pub?embedded=true"></iframe>
       </p>
     </div>
   );
