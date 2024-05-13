@@ -32,16 +32,12 @@
   align-items: center;
 }
 
-.Left {
-  float: left;
-  display: none;
-  justify-content: space-evenly;
+.Con {
+  display:flex;
 }
 
-.Right {
-  float: right;
-  display: none;
-  justify-content: space-evenly;
+.Col {
+  width: 50%;
 }
 
 .App-link {
